@@ -1,0 +1,3 @@
+br\com\kaapax\ktestes\ktestes.class
+br\com\kaapax\ktestes\commands\HealCommand.class
+br\com\kaapax\ktestes\commands\FlyCommand.class
